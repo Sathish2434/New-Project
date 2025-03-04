@@ -1,5 +1,5 @@
 # New-Project
-This is theriyala
+Project AI(GPT)
 
 #namba tha gethuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 #onnum panna mudiyadhu .... kai kaal la attam koduthudum.
